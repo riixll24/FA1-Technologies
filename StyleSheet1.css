@@ -1,0 +1,25 @@
+﻿
+
+.ree 
+{
+    background-color: #a75454; 
+    color: #371b69; 
+}
+
+p {
+    margin: 5px 0 10px 0;
+    font-weight: bold;
+    font-family: Garamond,sans-serif;
+    color: rgb(147, 134, 84);
+    ;
+}
+
+li {
+    color: #292c62;
+}
+
+#min {
+    background-color: #6a8ea1;
+    color: #2a5651; 
+    font-family: Garamond,sans-serif;
+}
